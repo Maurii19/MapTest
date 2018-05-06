@@ -1,0 +1,8 @@
+{
+  "name": "MapaTest",
+  "app_id": "a9594513",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
